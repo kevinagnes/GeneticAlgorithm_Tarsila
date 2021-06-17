@@ -1,0 +1,5 @@
+# GeneticAlgorithm_Tarsila
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgZh7iBVoKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+“Genetic Abapuru” is an interactive piece that invites participants to recreate the painting “O Abapuru” from Tarsila do Amaral, a Brazilian painter. The features that compose the pallet are shape, colour, body and environment. Using a custom interactive interface running on mobile, the participant will be presented with nine different options to choose. By selecting its favourite, the next generation will inherit the genes from the parents chosen to compose a new pallet for the participant. This process is repeated as many times as desired. In addition, when viewing the final composition, participants can interact and control the highlights, shadows, light direction, noise, glow and blur to enhance their painting further.
